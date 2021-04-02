@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hi there, I'm <a href="https://p3terx.com">EpokaU</a> 👋</b>
+    <b>Hi there, I'm <a href="https://github.com/EpokaU">EpokaU</a> 👋</b>
   </h1>
 </p>
 
